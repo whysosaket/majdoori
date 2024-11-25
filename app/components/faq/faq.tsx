@@ -45,7 +45,7 @@ const Faq = () => {
 
   return (
     <div className="p-6 w-4/5 mx-auto text-secondary rounded-lg">
-      <h1 className="text-4xl font-bold mb-12 my-4 text-center">Got questions?</h1>
+      <h1 className="text-4xl font-black mb-12 my-4 text-center">Got questions?</h1>
       <div className="space-y-4">
         {faqs.map((faq, index) => (
           <div key={index} className={`p-8 ${openIndex===index?"bg-[#9ee86f]":"bg-[#f2f4f9]"} rounded-3xl my-div`}>
