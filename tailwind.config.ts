@@ -11,6 +11,7 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        secondary: "#343c61",
       },
       fontFamily: {
         sans: ["Inter", "sans-serif"],
