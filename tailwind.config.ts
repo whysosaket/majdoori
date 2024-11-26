@@ -14,7 +14,7 @@ export default {
         secondary: "#343c61",
       },
       fontFamily: {
-        sans: ["Inter", "sans-serif"],
+        inter: ["Inter", "sans-serif"],
       },
     },
   },

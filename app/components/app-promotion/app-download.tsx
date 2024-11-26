@@ -8,7 +8,7 @@ import Ad from "@/app/assets/ad.png";
 const AppDownload = () => {
   return (
     <div>
-         <div className='bg-[#ededed] rounded-3xl px-8 pt-8 h-[35rem]'>
+         <div className='bg-[#ededed] rounded-3xl px-8 pt-8 min-h-[38rem]'>
             <div className='mb-4 flex'>
                 <Image src={Ad} alt="logo" className='w-full' />
             </div>
